@@ -1,0 +1,51 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.hand {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #E4FCF9;
+}
+
+h1 {
+  margin: 5px;
+  font-family: 'Courgette', cursive;
+  font-family: 'Zeyada', cursive;
+  text-shadow: 4px 0 #232931;
+  font-size: 8rem;
+  color: #ACE6F6;
+}
+
+p {
+  font-size: 4rem;
+  color: #4ECCA3;
+  text-shadow:#232931;
+  font-family: 'Zeyada', cursive;
+}
+
+
+footer {
+  margin-top: 5%;
+  color: slategrey;
+  text-align: center;
+  font-size: larger;
+  font-family: 'Zeyada', cursive;
+
+}
+.container2 {
+width: 100%;
+display: flex;
+justify-content: space-evenly;
+}
+
+img{
+  border: 9px solid royalblue;
+  
+}
